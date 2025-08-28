@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Varun — Architect of Autonomous Chaos Intelligence
+## ?? Recruiter Pitch Deck  
+[![View Pitch Deck](https://img.shields.io/badge/View-Pitch_Deck-yellow)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/pitch_deck.md)  
+This deck summarizes system highlights, resilience metrics, and recruiter impact.
 ## ?? Latest Chaos Run  
 [![View Latest](https://img.shields.io/badge/View-Latest-blue)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/latest.md)  
 This summary reflects the most recent chaos run and system state.
