@@ -1,4 +1,10 @@
 # 👋 Hi, I'm Varun — Architect of Autonomous Chaos Intelligence
+## ??? Chaos Replay Viewer  
+[![View Replay Viewer](https://img.shields.io/badge/View-Replay_Viewer-purple)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/viewer.md)  
+Browse archived chaos runs with filters, thumbnails, and replay links.
+## ?? Weekly Resilience Report  
+[![View Weekly Report](https://img.shields.io/badge/View-Weekly_Report-orange)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/weekly_report.md)  
+See resilience scores and alert trends from the past 7 runs.
 ## ?? Recruiter Pitch Deck  
 [![View Pitch Deck](https://img.shields.io/badge/View-Pitch_Deck-yellow)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/pitch_deck.md)  
 This deck summarizes system highlights, resilience metrics, and recruiter impact.
