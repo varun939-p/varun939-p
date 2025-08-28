@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Varun — Architect of Autonomous Chaos Intelligence
+## ?? Latest Chaos Run  
+[![View Latest](https://img.shields.io/badge/View-Latest-blue)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/latest.md)  
+This summary reflects the most recent chaos run and system state.
 ## ?? Chaos Dashboard Summary  
 [![View Summary](https://img.shields.io/badge/View-Summary-blue)](https://github.com/varun939-p/ai-devops-engineer/blob/main/dashboard/summary.md)  
 This system showcases autonomous alert handling, real-time monitoring, and executive-grade reporting.
