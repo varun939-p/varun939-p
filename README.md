@@ -65,3 +65,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ?? Autonomous Chaos Dashboard
+
+Live system. Real metrics. Recruiter-ready.
+
+### ??? Latest Chaos Runs
+[![Run #123](https://img.shields.io/badge/Chaos_Run-123-blue)](./viewer.md#run-123)
+[![Run #124](https://img.shields.io/badge/Chaos_Run-124-blue)](./viewer.md#run-124)
+[![Run #125](https://img.shields.io/badge/Chaos_Run-125-blue)](./viewer.md#run-125)
+
+### ?? Milestone Highlights
+- ?? First Replay Viewer ? [View](./viewer.md#run-101)
+- ?? Auto-Heal Triggered ? [View](./viewer.md#run-108)
+- ??? Heatmap Activated ? [View](./heatmap.md)
+- ?? Delta Tracker ? [View](./resilience_delta.md)
+
+### ?? System Insights
+- ?? [System Health Scorecard](./scorecard.md)
+- ??? [Replay Gallery](./gallery.md)
+- ?? [Chaos Timeline Chart](./timeline_data.csv)
+- ??? [Archive Browser](./archive_browser.md)
+- ?? [Milestone Timeline](./milestones.md)
+
+### ?? Live Status
+![Status](https://img.shields.io/badge/System-Healthy-brightgreen)
+
+---
+Built with ?? by Varun.  
+?? [GitHub](https://github.com/varun939-p) | [LinkedIn](https://www.linkedin.com/in/varun939) | [Email](mailto:varun@example.com)
+
+## ?? Chaos Intelligence  [![Total Runs](https://img.shields.io/badge/Total_Runs-1-blue)](./archive_browser.md) [![Avg Resilience](https://img.shields.io/badge/Avg_Resilience-8.7-green)](./resilience_delta.md) [![Last Run](https://img.shields.io/badge/Last_Run-2025-08-28 22%3A37%3A45-yellow)](./viewer.md)
+

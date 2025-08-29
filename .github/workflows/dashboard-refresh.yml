@@ -1,0 +1,19 @@
+name: Dashboard Auto-Refresh
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday at midnight
+
+jobs:
+  refresh:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run dashboard refresh
+        shell: pwsh
+        run: |
+          ./refresh_dashboard.ps1
